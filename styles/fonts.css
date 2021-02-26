@@ -1,0 +1,248 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-Light.eot');
+    src: url('../fonts/BrandonGrotesque-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-Light.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-Light.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-Light.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-Light.svg#BrandonGrotesque-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-Black.eot');
+    src: url('../fonts/BrandonGrotesque-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-Black.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-Black.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-Black.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-Black.svg#BrandonGrotesque-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-BoldItalic.eot');
+    src: url('../fonts/BrandonGrotesque-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-BoldItalic.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-BoldItalic.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-BoldItalic.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-BoldItalic.svg#BrandonGrotesque-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-MediumItalic.eot');
+    src: url('../fonts/BrandonGrotesque-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-MediumItalic.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-MediumItalic.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-MediumItalic.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-MediumItalic.svg#BrandonGrotesque-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Learning Curve Pro';
+    src: url('../fonts/LearningCurvePro.eot');
+    src: url('../fonts/LearningCurvePro.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/LearningCurvePro.woff2') format('woff2'),
+        url('../fonts/LearningCurvePro.woff') format('woff'),
+        url('../fonts/LearningCurvePro.ttf') format('truetype'),
+        url('../fonts/LearningCurvePro.svg#LearningCurvePro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+  
+  
+    src: url('../fonts/Kazimir-LightItalic.eot');
+    src: url('../fonts/Kazimir-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-LightItalic.woff2') format('woff2'),
+        url('../fonts/Kazimir-LightItalic.woff') format('woff'),
+        url('../fonts/Kazimir-LightItalic.ttf') format('truetype'),
+        url('../fonts/Kazimir-LightItalic.svg#Kazimir-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-Regular.eot');
+    src: url('../fonts/Kazimir-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-Regular.woff2') format('woff2'),
+        url('../fonts/Kazimir-Regular.woff') format('woff'),
+        url('../fonts/Kazimir-Regular.ttf') format('truetype'),
+        url('../fonts/Kazimir-Regular.svg#Kazimir-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-LightItalic.eot');
+    src: url('../fonts/BrandonGrotesque-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-LightItalic.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-LightItalic.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-LightItalic.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-LightItalic.svg#BrandonGrotesque-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-RegularItalic.eot');
+    src: url('../fonts/BrandonGrotesque-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-RegularItalic.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-RegularItalic.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-RegularItalic.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-RegularItalic.svg#BrandonGrotesque-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-Black.eot');
+    src: url('../fonts/Kazimir-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-Black.woff2') format('woff2'),
+        url('../fonts/Kazimir-Black.woff') format('woff'),
+        url('../fonts/Kazimir-Black.ttf') format('truetype'),
+        url('../fonts/Kazimir-Black.svg#Kazimir-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-MediumItalic.eot');
+    src: url('../fonts/Kazimir-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Kazimir-MediumItalic.woff') format('woff'),
+        url('../fonts/Kazimir-MediumItalic.ttf') format('truetype'),
+        url('../fonts/Kazimir-MediumItalic.svg#Kazimir-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Learning Curve Dashed Pro';
+    src: url('../fonts/LearningCurveDashedPro.eot');
+    src: url('../fonts/LearningCurveDashedPro.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/LearningCurveDashedPro.woff2') format('woff2'),
+        url('../fonts/LearningCurveDashedPro.woff') format('woff'),
+        url('../fonts/LearningCurveDashedPro.ttf') format('truetype'),
+        url('../fonts/LearningCurveDashedPro.svg#LearningCurveDashedPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir-RegularItalic';
+    src: url('../fonts/Kazimir-RegularItalic.eot');
+    src: url('../fonts/Kazimir-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-RegularItalic.woff2') format('woff2'),
+        url('../fonts/Kazimir-RegularItalic.woff') format('woff'),
+        url('../fonts/Kazimir-RegularItalic.ttf') format('truetype'),
+        url('../fonts/Kazimir-RegularItalic.svg#Kazimir-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-Medium.eot');
+    src: url('../fonts/Kazimir-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-Medium.woff2') format('woff2'),
+        url('../fonts/Kazimir-Medium.woff') format('woff'),
+        url('../fonts/Kazimir-Medium.ttf') format('truetype'),
+        url('../fonts/Kazimir-Medium.svg#Kazimir-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-Light.eot');
+    src: url('../fonts/Kazimir-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-Light.woff2') format('woff2'),
+        url('../fonts/Kazimir-Light.woff') format('woff'),
+        url('../fonts/Kazimir-Light.ttf') format('truetype'),
+        url('../fonts/Kazimir-Light.svg#Kazimir-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-ThinItalic.eot');
+    src: url('../fonts/BrandonGrotesque-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque-ThinItalic.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-ThinItalic.woff') format('woff'),
+        url('../fonts/BrandonGrotesque-ThinItalic.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque-ThinItalic.svg#BrandonGrotesque-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-BlackItalic.eot');
+    src: url('../fonts/Kazimir-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Kazimir-BlackItalic.woff') format('woff'),
+        url('../fonts/Kazimir-BlackItalic.ttf') format('truetype'),
+        url('../fonts/Kazimir-BlackItalic.svg#Kazimir-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-Bold.eot');
+    src: url('../fonts/Kazimir-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-Bold.woff2') format('woff2'),
+        url('../fonts/Kazimir-Bold.woff') format('woff'),
+        url('../fonts/Kazimir-Bold.ttf') format('truetype'),
+        url('../fonts/Kazimir-Bold.svg#Kazimir-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('../fonts/Kazimir-BoldItalic.eot');
+    src: url('../fonts/Kazimir-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kazimir-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Kazimir-BoldItalic.woff') format('woff'),
+        url('../fonts/Kazimir-BoldItalic.ttf') format('truetype'),
+        url('../fonts/Kazimir-BoldItalic.svg#Kazimir-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
